@@ -1,27 +1,37 @@
-# AngularAssessment
+# angular-assessment
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+************************
 
-## Development server
+Online Test Application.
+Project 1 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+DESCRIPTION
 
-## Code scaffolding
+Project Objective:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+As a Full Stack Developer, you have to develop an online test portal for assessment.
 
-## Build
+Background of the problem statement:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+As the project is progressing, the management has asked you to create an online test application in order to help the recruitment team take online tests of the candidates coming for interviews.
 
-## Running unit tests
+You must use the following:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Visual Studio Code
 
-## Running end-to-end tests
+NodeJS
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Angular
 
-## Further help
+GitHub
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+ 
+
+Following requirements should be met:
+
+A few of the source codes should be tracked on GitHub repositories. You need to document the tracked files that are ignored during the final push to the GitHub repository.
+
+The submission of your GitHub repository link is mandatory. In order to track your task, you need to share the link of the repository in the document.
+
+The step-by-step process involved in completing this task should be documented.
